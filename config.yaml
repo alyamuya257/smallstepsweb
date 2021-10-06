@@ -57,11 +57,11 @@ params:
     - href: 
       title: 
   friends: no
-  header_image: img/smallbanner.png
+  header_image: img/bannersmall.png
   image_404: img/404-bg.jpg
   keyword: 
-  leancloud_app_id: ''
-  leancloud_app_key: ''
+  leancloud_app_id: 
+  leancloud_app_key: 
   omit_categories: no
   page_view_conter: no
   reward: yes
