@@ -1,5 +1,5 @@
 baseurl: https://www.smallstepswithallie.com/
-title: 
+title: Small Steps with Allie
 theme: hugo-theme-cleanwhite
 languageCode: en-us
 disqusShortname: ''
@@ -21,8 +21,8 @@ params:
       title: ARCHIVE
     - href: /top/about/
       title: ABOUT
-    - href: /top/insights/
-      title: INSIGHTS
+    - href: /top/content/
+      title: CONTENT
   algolia:
     params:
       - categories
@@ -58,7 +58,7 @@ params:
     - href: 
       title: 
   friends: no
-  header_image: img/smallsteps.png
+  header_image: img/smallbanner.png
   image_404: img/404-bg.jpg
   keyword: 
   leancloud_app_id: ''
@@ -68,7 +68,7 @@ params:
   reward: yes
   sidebar_about_description: Knowledge Enthusiast and Interdisciplinary Learner
   sidebar_avatar: img/allie.jpg
-  slogan:  
+  slogan:  Make today count
   social:
     email: smallstepswallie@gmail.com
     instagram: https://www.instagram.com/smallstepswithallie/
