@@ -1,5 +1,5 @@
 baseurl: https://www.smallstepswithallie.com/
-title: Small Steps with Allie 
+title: 
 theme: hugo-theme-cleanwhite
 languageCode: en-us
 disqusShortname: ''
@@ -21,6 +21,8 @@ params:
       title: ARCHIVE
     - href: /top/about/
       title: ABOUT
+    - href: /top/insights/
+      title: INSIGHTS
   algolia:
     params:
       - categories
@@ -66,12 +68,12 @@ params:
   reward: yes
   sidebar_about_description: Knowledge Enthusiast and Interdisciplinary Learner
   sidebar_avatar: img/allie.jpg
-  slogan: As long as you're breathing, make everyday count. 
+  slogan:  
   social:
     email: smallstepswallie@gmail.com
-    github: https://github.com/alyamuya257
     instagram: https://www.instagram.com/smallstepswithallie/
     youtube: https://www.youtube.com/channel/UCyGlcVSiSNP7uPb2UytJQPg
+    github: https://github.com/alyamuya257
     rss: yes
 outputFormats:
   Algolia:
