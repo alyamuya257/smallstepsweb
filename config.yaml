@@ -36,7 +36,7 @@ params:
   algolia_apiKey: 
   algolia_appId: 
   algolia_indexName: 
-  algolia_search: yes
+  algolia_search: no
   ba_track_id: 
   bookmark_link:
     - href: https://martinfowler.com
